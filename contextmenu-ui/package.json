@@ -1,0 +1,27 @@
+{
+  "name": "contextmenu-ui",
+  "version": "0.0.33",
+  "description": "contextmenu",
+  "main": "contextmenu-ui.js",
+  "module": "dist/vite-vue3-ts-test-fjc.umd.cjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "README.md",
+    "/dist",
+    "package.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/hm-cao/contextmenu_-page"
+  },
+  "keywords": [
+    "vue3",
+    "ts",
+    "contextmenu"
+  ],
+  "author": "zs",
+  "license": "ISC"
+}
